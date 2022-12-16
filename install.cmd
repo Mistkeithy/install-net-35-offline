@@ -1,0 +1,1 @@
+dism /online /enable-feature /featurename:NetFX3 /source:net /limitaccess
